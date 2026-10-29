@@ -2,6 +2,13 @@
 
 ![Global Salaries image](assets/excel_covid_salary_project1.webp)
 
+**At a glance**
+- **Question:** how did data science pay change around the world during the COVID-19 years, and what drove the differences?
+- **Data:** a public dataset of global data science salaries, broken down by country, role, experience, company size and remote ratio
+- **Tools:** Microsoft Excel (lookup and text formulas for cleaning, PivotTables for analysis, PivotCharts and slicers for the dashboard)
+- **What I found:** North America and Oceania paid the most; fully remote roles paid more than on-site ones; pay climbed steeply at senior and executive level, and kept growing through the pandemic
+
+
 # **Introduction**
 
 The COVID-19 pandemic placed the world in a very troubled scenario, leaving no industry unscathed — and data science was no exception. During this period, demand for data-driven roles increased massively as companies needed insights to navigate the uncertainty. That demand directly impacted salaries, influenced further by geography, experience level, and a massive jump in remote work.
